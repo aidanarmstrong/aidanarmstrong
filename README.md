@@ -1,4 +1,4 @@
-## Hey everyone i'm Aidan, I build apps📱 and I am a fullstack developer 👨‍💻
+## Hey everyone i'm Aidan, I build apps📱 and I am a full stack developer 👨‍💻
 
 Building app in my spare time is what i love doing.
 
