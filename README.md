@@ -2,7 +2,7 @@
 
 
 i'm Aidan 👨‍💻
-I am currently a Software Engineer working with laravel, Vue & React native. I always try to learn new technology stacks and better myself as a developer. I build apps in my spare time as it is what i love doing.
+I am currently a Software Engineer working with React & React native. I always try to learn new technology stacks and better myself as a developer. I build apps in my spare time as it is what i love doing.
 
 ⚡ Powering my ideas with ☕ 
 </a>
