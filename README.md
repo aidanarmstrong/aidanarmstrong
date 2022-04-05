@@ -53,13 +53,6 @@ CSS    ██████████░░░░░░░░░░░░░░�
 JSON   █████░░░░░░░░░░░░░░░░░░░░   28.38 % 
 ```
 
-## Github Status
-
-![Aidan's github stats](https://github-readme-stats.vercel.app/api?username=aidanarmstrong&show_icons=true&title_color=fff&icon_color=a19897&text_color=9f9f9f&bg_color=3a424a)
-
-
-
-
 ## Favourite Quote
 
 > I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.
