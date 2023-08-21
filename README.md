@@ -5,13 +5,6 @@ i'm Aidan 👨‍💻
 I am currently a Software Engineer working with React & React native. I always try to learn new technology stacks and better myself as a developer. I build apps in my spare time as it is what i love doing.
 
 ⚡ Powering my ideas with ☕ 
-</a>
-<a href="https://twitter.com/aidanjarmstrong">
-  <img align="left" alt="Aidan Armstrong | Twitter" width="22px" src="" />
-</a>
-<a href="https://www.linkedin.com/in/aidanjarmstrong/">
-  <img align="left" alt="Aidan | Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
-</a>
 
 <br/>
 
